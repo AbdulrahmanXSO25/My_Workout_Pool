@@ -30,6 +30,7 @@
 - **Wrist Roller** *(Manual or Machine)*  
 - **Reverse EZ Bar Curl** *(Or Dumbbell Variant)*  
 - **Farmer’s Carry** *(Dumbbells or Trap Bar)*
+- **Straight Bar Cable Wrist Curl**
 
 ---
 ## 🐉 Back
