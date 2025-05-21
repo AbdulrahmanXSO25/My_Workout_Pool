@@ -20,8 +20,9 @@
 
 ## 💥 Biceps
 - **Dumbbell Preacher Curl**  
+-**Standard Cable Curl**
 - **EZ Bar Curl**  
-- **Standing Barbell Curl**  
+- **Standing Dumbbell Curl**  
 
 ---
 
