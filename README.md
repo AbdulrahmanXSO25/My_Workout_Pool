@@ -32,13 +32,13 @@
 - **Farmer’s Carry** *(Dumbbells or Trap Bar)*
 
 ---
-
 ## 🐉 Back
 - **Pull-ups** *(Wide & Neutral grips)*  
   _Neutral grip = more lat engagement_  
 - **Lat Pulldown** *(Wide & Neutral grips)*  
 - **Seated Cable Rows** *(Wide & Neutral grips)*  
   _Wide grip = more mid-back emphasis_  
+- **Chest-Supported Rows** *(Dumbbell or Machine)*
 
 ---
 
